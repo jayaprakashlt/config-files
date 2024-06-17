@@ -1,0 +1,6 @@
+custom:
+  data:
+    value: This data loaded from core-qa
+user:
+  name: prakash
+  password: '{cipher}1955aed4602c9714b955d6a58b0ff457c000b60aed57f4f7797c4aa79672d35d'

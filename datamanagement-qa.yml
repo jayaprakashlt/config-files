@@ -1,0 +1,6 @@
+custom:
+  data:
+    value: This data loaded from data-qa
+user:
+  name: prakash
+  password: '{cipher}78495fc48ac1f93974ef08266d5a4dc39f45903d1841282b3460aee433cf462e'

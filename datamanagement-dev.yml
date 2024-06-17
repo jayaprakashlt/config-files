@@ -1,0 +1,6 @@
+custom:
+  data:
+    value: This data loaded from data-dev
+user:
+  name: prakash
+  password: '{cipher}8d2fd328b157a97f341f50c547dfa615781fdbe2706934ac7709b6d035a219d9'
