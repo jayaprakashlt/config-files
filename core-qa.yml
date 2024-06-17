@@ -1,6 +1,20 @@
 custom:
   data:
-    value: This data loaded from core-qa
+    value: This data loaded from CORE SERVICE and QA profile
+
+
+
+customer:
+  details:
+    name: Prakash
+    organization: Ladera Technology
+    customerId: LT0466
+    phone:
+      - +91 9087587428
+      - +91 8489057323
+    city: chennai
+    
+    
 user:
   name: prakash
   password: '{cipher}1955aed4602c9714b955d6a58b0ff457c000b60aed57f4f7797c4aa79672d35d'
